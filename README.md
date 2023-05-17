@@ -22,8 +22,8 @@ This project aims to provide a custom HTML base template for offer based emails 
 
 ## Used By
 
-This project is used by the following companies:
+This project is used by the following Organization:
 
-- GDSC BPDC
+- Google Developer Student Clubs BITS Pilani, Dubai Campus
 
 
