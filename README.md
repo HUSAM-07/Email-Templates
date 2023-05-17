@@ -9,7 +9,8 @@ This project aims to provide a custom HTML base template for offer based emails 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-- Please Note Only GDSC Council Members Can Use this Template For Now## Color Reference
+- Please Note Only GDSC Council Members Can Use this Template For Now
+## Color Reference
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
